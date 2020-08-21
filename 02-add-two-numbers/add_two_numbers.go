@@ -1,4 +1,4 @@
-package addtwonumbers
+package lc02
 
 // ListNode is a definition for singly-linked list
 type ListNode struct {

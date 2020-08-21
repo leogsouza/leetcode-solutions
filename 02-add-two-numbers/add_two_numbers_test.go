@@ -1,4 +1,4 @@
-package addtwonumbers
+package lc02
 
 import (
 	"reflect"

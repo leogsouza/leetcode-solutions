@@ -1,4 +1,4 @@
-package twosum
+package lc01
 
 import (
 	"reflect"
